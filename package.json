@@ -1,5 +1,5 @@
 {
-  "name": "react-native-rong-imlib",
+  "name": "@air/rongcloud",
   "version": "0.0.1",
   "description": "React Native下的融云SDK (IMLib) 封装",
   "main": "src/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reactnativecn/react-native-rong-imlib.git"
+    "url": "git+https://github.com/airapps/air-rongcloud.git"
   },
   "keywords": [
     "react",
@@ -22,12 +22,12 @@
   "author": "reactnativecn",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/reactnativecn/react-native-rong-imlib/issues"
+    "url": "https://github.com/airapps/air-rongcloud/issues"
   },
   "peerDependencies": {
     "react-native": ">=0.18.0"
   },
-  "homepage": "https://github.com/reactnativecn/react-native-rong-imlib#readme",
+  "homepage": "https://github.com/airapps/air-rongcloud#readme",
   "dependencies": {
     "fbemitter": "^2.0.2"
   }
